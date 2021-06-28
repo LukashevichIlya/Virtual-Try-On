@@ -9,6 +9,7 @@
 ## Примеры работы модели:
 ![First dancing man](https://github.com/LukashevichIlya/Virtual-Try-On/blob/master/media/dancing_man_1.gif?raw=true)
 ![Second dancing man](https://github.com/LukashevichIlya/Virtual-Try-On/blob/master/media/dancing_man_2.gif?raw=true)
+![Third dancing man](https://github.com/LukashevichIlya/Virtual-Try-On/blob/master/media/dancing_man_3.gif?raw=true)
 
 ## Особенности
 
